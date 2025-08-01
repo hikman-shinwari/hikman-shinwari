@@ -18,7 +18,7 @@
 
 ---
 ## 📊 GitHub Stats
-![Hikman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hikman-shinwari&show_icons=true&theme=default)
+https://github.com/hikman-shinwari/hikman-shinwari/edit/main/README.md
 ---
 
 ## 📫 Contact Me
