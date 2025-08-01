@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Hikman Shinwari
 
-<!--
-**hikman-shinwari/hikman-shinwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Development Student (Fachinformatiker – AE)  
+💻 Focused on Java, HTML, CSS, Java Script, Git, and Web Development  
+🌱 Currently learning Full-Stack Web Development  
+🚀 Aspiring Full-Stack Developer with interest in AI & Remote Work  
+🔤 **Pronouns:** he/him
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- 🌐 HTML | CSS | JavaScript *(learning)*
+- ☕ Java
+- 🔧 Git & GitHub
+- 🖥️ Visual Studio Code | IntelliJ
+
+---
+
+## 🎯 Current Goals
+- Build real-world projects for my portfolio  
+- Master Java & Web Development  
+- Learn React & Backend frameworks  
+- Start contributing to open-source on GitHub
+
+---
+
+## 📫 Contact Me
+- 📧 Email: hikman.dev@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/hikman-ullah-shinwari-461255378/
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
