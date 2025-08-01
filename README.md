@@ -1,27 +1,24 @@
-# 👋 Hi, I'm Hikman Shinwari
+# 👨‍💻 Hi, I'm Hikman Shinwari  
+🚀 Software Development Student | Future Full-Stack Developer | Passionate About Java & Web Tech
 
-🎓 I'm a Software Development Student (Fachinformatiker – AE)  
-💻 Focused on Java, HTML, CSS, Java Script, Git, and Web Development  
-🌱 Currently learning Full-Stack Web Development  
-🚀 Aspiring Full-Stack Developer with interest in AI & Remote Work  
-🔤 **Pronouns:** he/him
 
 ---
-
 ## 🧰 Tech Stack
-- 🌐 HTML | CSS | JavaScript *(learning)*
-- ☕ Java
-- 🔧 Git & GitHub
-- 🖥️ Visual Studio Code | IntelliJ
+- 💻 Languages: HTML, CSS, JavaScript (currently learning), Java
+- 🛠 Tools: Git, GitHub, Visual Studio Code, IntelliJ IDEA
+- 🌐 Focus Areas: Web Development, Java, Remote Tech Careers
 
 ---
-
 ## 🎯 Current Goals
-- Build real-world projects for my portfolio  
-- Master Java & Web Development  
-- Learn React & Backend frameworks  
-- Start contributing to open-source on GitHub
+- 🔨 Building real-world portfolio projects
+- 📚 Mastering Java and modern web development
+- ⚛️ Learning React and backend frameworks (Spring Boot)
+- 🤝 Contributing to open-source projects on GitHub
 
+
+---
+## 📊 GitHub Stats
+![Hikman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hikman-shinwari&show_icons=true&theme=default)
 ---
 
 ## 📫 Contact Me
