@@ -23,7 +23,7 @@ https://github.com/hikman-shinwari/hikman-shinwari/edit/main/README.md
 
 ## 📫 Contact Me
 - 📧 Email: hikman.dev@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/hikman-ullah-shinwari-461255378/
+- 🌐 LinkedIn:https://www.linkedin.com/in/hikman-ullah-shinwari/
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
