@@ -1,17 +1,17 @@
 # 👨‍💻 Hi, I'm Hikman Shinwari  
-🚀 Software Development Student | Future Full-Stack Developer | Passionate About Java & Web Tech
+🚀 Software Development Student | Future Full-Stack Developer | Passionate About Java,Python & Web Tech
 
 
 ---
 ## 🧰 Tech Stack
-- 💻 Languages: HTML, CSS, JavaScript (currently learning), Java
+- 💻 Languages: HTML, CSS, JavaScript (currently learning), Java,Python
 - 🛠 Tools: Git, GitHub, Visual Studio Code, IntelliJ IDEA
 - 🌐 Focus Areas: Web Development, Java, Remote Tech Careers
 
 ---
 ## 🎯 Current Goals
 - 🔨 Building real-world portfolio projects
-- 📚 Mastering Java and modern web development
+- 📚 Mastering Java,Python and modern web development
 - ⚛️ Learning React and backend frameworks (Spring Boot)
 - 🤝 Contributing to open-source projects on GitHub
 
