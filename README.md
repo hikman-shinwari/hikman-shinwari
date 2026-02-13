@@ -6,7 +6,7 @@
 ## 🧰 Tech Stack
 - 💻 Languages: HTML, CSS, JavaScript (currently learning), Java,Python
 - 🛠 Tools: Git, GitHub, Visual Studio Code, IntelliJ IDEA
-- 🌐 Focus Areas: Web Development, Java, Remote Tech Careers
+- 🌐 Focus Areas: Web Development, Java,Python Remote Tech Careers
 
 ---
 ## 🎯 Current Goals
@@ -23,7 +23,7 @@ https://github.com/hikman-shinwari/hikman-shinwari/edit/main/README.md
 
 ## 📫 Contact Me
 - 📧 Email: hikman.dev@gmail.com
-- 🌐 LinkedIn:https://www.linkedin.com/in/hikman-ullah-shinwari/
+- 🌐 LinkedIn:https://www.linkedin.com/in/hikman-shinwari/
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
