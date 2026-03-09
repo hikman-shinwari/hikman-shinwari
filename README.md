@@ -1,5 +1,18 @@
-# 👨‍💻 Hi, I'm Hikman Shinwari  
-🚀 Software Development Student | Future Full-Stack Developer | Passionate About Java,Python & Web Tech
+# Hi, I'm Hikman 👋
+
+💻 Software Development Student (IHK Umschulung – Germany)  
+🚀 Currently building projects with **Java and Python**  
+📚 Learning every day and sharing my progress on GitHub
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Developer Projects Portfolio**  
+Java and Python practice projects including a Task Manager, Calculator, Password Generator and Number Guessing Game.
+
+🔹 **100 Days of Python**  
+Daily Python learning journey and mini projects.
 
 
 ---
