@@ -1,6 +1,6 @@
 # Hi, I'm Hikman 👋
 
-💻 Software Development Student (IHK Umschulung – Germany)  
+💻 Software Development Student (HK Umschulung – Germany)  
 🚀 Currently building projects with **Java and Python**  
 📚 Learning every day and sharing my progress on GitHub
 
