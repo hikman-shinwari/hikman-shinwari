@@ -68,9 +68,4 @@
 
 <p align="center"><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
 
-## 📫 Contact Me
-- 📧 Email: hikman.dev@gmail.com
-- 🌐 LinkedIn:https://www.linkedin.com/in/hikman-shinwari/
----
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
