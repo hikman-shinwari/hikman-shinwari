@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hikman Shinwari 👋</h1>
+<h1 align="center"> Hikman Shinwari </h1>
 
 <p align="center">
   <strong>Software Development Student · Java & Python Developer · Future Full-Stack Engineer</strong>
